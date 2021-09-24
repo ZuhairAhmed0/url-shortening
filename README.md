@@ -1,6 +1,6 @@
 # Frontend Mentor - Shortly URL shortening API Challenge
 Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge") Coded by Zuhair Ahmed.
-[Live demo](https://zuhair12390.github.io/url-shortening-/)
+[Live demo](https://zuhairahmed0.github.io/url-shortening/)
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
 
